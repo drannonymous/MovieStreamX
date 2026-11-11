@@ -11,6 +11,9 @@ A privacy-focused Android entertainment application for discovering movies and T
   <a href="https://www.moviestream.bond">
     <img src="https://img.shields.io/badge/Download-Android_APK-28A745?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
   </a>
+  <a href="https://www.virustotal.com/gui/file/66d6908c01b46f829dd3fa6399fbac654f9346adff7d4e1873ff3f4499ddb61b/detection">
+    <img src="https://img.shields.io/badge/VirusTotal-View_Security_Report-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal Security Report">
+  </a>
 </p><p>
   <img src="https://img.shields.io/badge/Platform-Android-brightgreen?style=flat-square&logo=android" alt="Android">
   <img src="https://img.shields.io/badge/Privacy-Focused-blue?style=flat-square" alt="Privacy Focused">
@@ -51,7 +54,6 @@ Looking for MovieBox, MovieBox Premium, a MovieBox alternative, or an Android mo
 - Multiple playback options where supported.
 - Subtitle and audio-track support where available.
 - Download functionality where supported to Offline Phone Storage 
-
 🔐 Privacy & Security
 
 Privacy matters.
@@ -122,30 +124,24 @@ Users should review the privacy policy and available network-permission informat
 
 Security transparency is important when distributing Android APK files.
 
-MovieStream encourages independent APK security verification through VirusTotal.
+MovieStream provides a VirusTotal security report for an APK release.
 
-VirusTotal scan:
+<div align="center"><a href="https://www.virustotal.com/gui/file/66d6908c01b46f829dd3fa6399fbac654f9346adff7d4e1873ff3f4499ddb61b/detection">
+  <img src="https://img.shields.io/badge/VirusTotal-View_Actual_APK_Scan-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="View MovieStream VirusTotal Report">
+</a>SHA-256
 
-"Check MovieStream APK on VirusTotal" (https://www.virustotal.com/gui/home/upload)
+"66d6908c01b46f829dd3fa6399fbac654f9346adff7d4e1873ff3f4499ddb61b"
 
-To verify a release:
+</div>The report above identifies a specific APK file using its SHA-256 hash.
 
-1. Download MovieStream from the official website.
-2. Open VirusTotal.
-3. Upload the downloaded APK.
-4. Review antivirus engine detections.
-5. Check the APK SHA-256 hash.
-6. Compare the hash with the official release information, when published.
+Users can independently inspect:
 
-Important: VirusTotal results can change over time. A clean scan does not guarantee that an application is completely risk-free.
+- Antivirus engine detections.
+- File information.
+- Security analysis results.
+- File identification hash.
 
-Official Release Verification
-
-Download APK files only from:
-
-https://www.moviestream.bond
-
-Do not trust modified, repackaged or unofficial APK distributions.
+Important: VirusTotal results can change over time. A clean scan does not guarantee that an application is completely risk-free. Always verify that the downloaded APK has the same SHA-256 hash as the scanned release.
 
 ---
 
@@ -190,13 +186,9 @@ Actual availability depends on the current application version and account eligi
 
 MovieStream supports automatic version checking.
 
-Configured update endpoint:
+The application checks its configured update information to determine whether a newer version is available and displays the update prompt when appropriate.
 
-"https://moviestream-pro.pages.dev/update.json"
-
-The application compares its installed version with the latest published version and displays the available update prompt when a newer version is detected.
-
-Always obtain updates from the official MovieStream distribution channel.
+Visit the official website for the latest release information.
 
 ---
 
@@ -261,9 +253,7 @@ No. MovieStream is an independent project and is not affiliated with MovieBox or
 Resource| Link
 Official Website| https://www.moviestream.bond
 APK Download| https://www.moviestream.bond
-Privacy Policy| https://www.moviestream.bond
-Latest Update Information| https://moviestream-pro.pages.dev/update.json
-VirusTotal| https://www.virustotal.com/gui/home/upload
+VirusTotal Security Report| "View APK Scan" (https://www.virustotal.com/gui/file/66d6908c01b46f829dd3fa6399fbac654f9346adff7d4e1873ff3f4499ddb61b/detection)
 
 ---
 
