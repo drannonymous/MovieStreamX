@@ -53,7 +53,10 @@ Looking for MovieBox, MovieBox Premium, a MovieBox alternative, or an Android mo
 - Integrated video playback.
 - Multiple playback options where supported.
 - Subtitle and audio-track support where available.
-- Download functionality where supported to Offline Phone Storage 
+- Download functionality where supported to Offline Phone Storage
+
+
+
 🔐 Privacy & Security
 
 Privacy matters.
